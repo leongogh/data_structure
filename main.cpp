@@ -17,6 +17,6 @@ int main()
     long sum1, sum2;
     sum1 = queue_for_ticket(15,12);
     sum2 = queue_for_ticket(20,10);
-    printf("sum: %ld, %ld \n", sum1, sum2);
+    printf("sum: %ld, %ld\n", sum1, sum2);
     return  0;
 }
